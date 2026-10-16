@@ -82,3 +82,4 @@ Este diretório `dist/` está 100% pronto para publicação estática:
 
 - Dados históricos e curadoria baseados em fontes públicas da Wikipedia e Wikimedia Commons.
 - Todas as ilustrações e fotos históricas seguem licenças livres ou estão em domínio público.
+Vinicius Solducha de Goiz, estou editanto este arquivo para fins de compreensão de mecanismos do git.
